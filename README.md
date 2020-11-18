@@ -1,8 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on ...
 
-### Hi there 👋
-
 [![](http://antzuhl.cn:4000/get/@mademyday1874.readme)](http://antzuhl.cn/)
 
 ![info](https://github-readme-stats.vercel.app/api?username=mademyday1874&show_icons=true&count_private=true&hide=prs&theme=dark)
